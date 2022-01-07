@@ -1,0 +1,12 @@
+#Welcome in config | This plugin was mad by Fan
+
+#BumpFeather Id
+BumpFeather: "288:0"
+
+#BumpFeather Boost
+BumpFeatherBoost: 8
+
+#BumpFeather Cooldown in seconds
+BumpFeatherCooldown: 60
+
+BumpFeatherMessage: "§e§l» §r§fVeillez attendre §e§l{time}§r§f avant de re-utiliser §6BumpFeather"
